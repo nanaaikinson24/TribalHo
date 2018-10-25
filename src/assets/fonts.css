@@ -1,0 +1,27 @@
+@font-face {
+    font-family: "HelveticaNeue-bold";
+    src: url("fonts/HelveticaNeueLTCom-Bd.woff2") format("woff2"),
+        url("fonts/HelveticaNeueLTCom-Bd.woff") format("woff"),
+        url("fonts/HelveticaNeueLTCom-Bd.ttf") format("truetype");
+    font-weight: bold;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "HelveticaNeue";
+    src: url("fonts/HelveticaNeueLTCom-Roman.woff2") format("woff2"),
+        url("fonts/HelveticaNeueLTCom-Roman.woff") format("woff"),
+        url("fonts/HelveticaNeueLTCom-Roman.ttf") format("truetype");
+    font-weight: normal;
+    font-style: normal;
+}
+
+@font-face {
+    font-family: "Proxima Nova";
+    src: url("fonts/ProximaNova-Regular.eot");
+    src: url("fonts/ProximaNova-Regular.eot?#iefix") format("embedded-opentype"),
+        url("fonts/ProximaNova-Regular.woff2") format("woff2"),
+        url("fonts/ProximaNova-Regular.woff") format("woff");
+    font-weight: normal;
+    font-style: normal;
+}
